@@ -1,0 +1,19 @@
+[
+  {
+    "id": "nus",
+    "institution": "National University of Singapore (NUS)",
+    "degree": "Bachelor of Science",
+    "major": "Quantitative Finance",
+    "doubleMajor": "Computer Science",
+    "period": "2023 – Present",
+    "year": "Year 2",
+    "gpa": "4.7/5.0",
+    "achievements": [
+      "Technical Director of Student Union CommIT",
+      "Blockchain Developer @ NUS Fintech",
+      "Quant @ NUS Invest",
+      "Tech Associate @ Google student club",
+      "Commencement Letter from SOC"
+    ]
+  }
+]

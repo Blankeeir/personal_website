@@ -1,0 +1,79 @@
+[
+  {
+    "id": "dempsey",
+    "company": "Dempsey Capital",
+    "position": "Founder, CEO & Head of Quantitative Trading",
+    "period": "12 2024 - Present",
+    "description": "500k Quant Trading BVI Fund with daily volume 3 billion USD",
+    "achievements": [
+      "Formally registered prop trading firm in Singapore, top 1 Coinbase Institutional & Retail VIP and Binance VIP 9, OKX VIP9",
+      "Internal market maker for Coinbase INTX, collaborate with Coinbase to increase its market cap by 8%",
+      "Accounting for over 10 billion daily trading volume",
+      "Develop machine learning Algo-based automated median-high frequency trading system",
+      "Generated daily return from 30% to 160%",
+      "AUM 10 million USD, expanding client base and partnering with top quant trading firms"
+    ],
+    "type": "leadership"
+  },
+  {
+    "id": "emurgo",
+    "company": "Emurgo",
+    "position": "CEO Office Researcher & Business Development Associate",
+    "period": "1 2025 – Present",
+    "description": "Largest founding entity of Cardano Blockchain, leading crypto company",
+    "achievements": [
+      "Participate in CEO office management meetings and propose business development plans",
+      "Push forward Cardano's new token listing strategies, borrowing and lending, AI-agent Strategies",
+      "Representative of Company for global conferences such as APLMA, ETHGlobal and Devcon",
+      "Brought in impactful partners like Coinbase, Binance and accredited investors",
+      "Develop dashboard for company and financial tracking system",
+      "Boost Cardano's project funding initiatives"
+    ],
+    "type": "research"
+  },
+  {
+    "id": "infrasingularity",
+    "company": "Infrasingularity",
+    "position": "Quantitative Trader, Technical Researcher",
+    "period": "12 2024 – Present",
+    "description": "Well-known Ethereum-based Validator, Restaking Protocol",
+    "achievements": [
+      "Generated near 200k revenue for company within three weeks",
+      "Stepped up from intern to full-time trader and obtained bonus contract",
+      "Help with asset management generating near 20% return everyday",
+      "Developed unique near 260%-return back-tested strategy",
+      "Research on potential restaking partners, plan optimal yield on staking & restaking scheme"
+    ],
+    "type": "trading"
+  },
+  {
+    "id": "neo",
+    "company": "Neo",
+    "position": "Blockchain Developer, Technical Smart Contract Developer",
+    "period": "5 2024 – 12 2024",
+    "description": "Largest and first Blockchain in China",
+    "achievements": [
+      "Directly work with CEO for technological demo implementation",
+      "Manage CEO's twitter account",
+      "Develop smart contracts & cryptographical encryption demonstration",
+      "Write comprehensive reports on blockchain industry news & projects",
+      "Representative of Neo in Token 2049 and publicize Neo's new L2 & wallet initiatives"
+    ],
+    "type": "development"
+  },
+  {
+    "id": "servare",
+    "company": "Servare",
+    "position": "Founder, CEO & Technological Head",
+    "period": "1 2024 – Present",
+    "description": "Blockchain Tech Startup developing solutions for agriculture overproduction and supply chain tracking",
+    "achievements": [
+      "Enhancing supply chain tracking transparency by immutable record on vechain",
+      "Decentralized peer-to-peer surplus food marketplace for agriculture participants",
+      "Automated by smart contracts, assuring industrial compliances",
+      "Accredited partner on Vechain",
+      "Partner with Singapore and Malaysian supply chain companies & super markets & retail farmers"
+    ],
+    "type": "leadership"
+  }
+]

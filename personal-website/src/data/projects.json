@@ -1,0 +1,50 @@
+[
+  {
+    "id": "nuspirit",
+    "title": "NUSpirit - Study Metaverse App",
+    "category": "Independent Software Development",
+    "period": "5 2024 - 8 2024",
+    "level": "Orbital 2024 (Highest Level, Artemis)",
+    "description": "Full-stack devised swiftUI native ios application 'NUSpirit' and integrated micro-service ios-built unity scene 'unityNuspirit'",
+    "details": [
+      "A study metaverse for NUS students to find available study venues",
+      "Explore and study tracking in real-time",
+      "Connect with study buddies",
+      "Built with SwiftUI and Unity integration"
+    ],
+    "technologies": ["SwiftUI", "Unity", "iOS Development", "Real-time Systems"],
+    "type": "mobile"
+  },
+  {
+    "id": "fintech-summit",
+    "title": "Blockchain Insiders - Cross-chain Interoperability",
+    "category": "NUS FinTech Summit 2024",
+    "period": "12 2023 - 1 2024",
+    "achievement": "2nd Runner Up, Northern Trust",
+    "description": "Team Leader of 'Blockchain Insiders', addressed Problem Statement: Interoperability of cross-chain transactions",
+    "details": [
+      "Led team to develop cross-chain transaction solutions",
+      "Addressed interoperability challenges in blockchain networks",
+      "Presented to industry experts and judges",
+      "Achieved 2nd Runner Up position"
+    ],
+    "technologies": ["Blockchain", "Cross-chain Protocols", "Smart Contracts"],
+    "type": "competition"
+  },
+  {
+    "id": "startups-war",
+    "title": "Green Hydrogen & SaaS Hospitality Solutions",
+    "category": "Startups War TNB Aura",
+    "period": "8 2024 - 9 2024",
+    "achievement": "Top 6 Finalist",
+    "description": "Developed comprehensive Venture Capital investment thesis and innovative sales models",
+    "details": [
+      "Comprehensive Venture Capital investment thesis on green hydrogen (Sungreen H2)",
+      "Crafted innovative sales model for SaaS in hospitality sector (ZUZU Hospitality)",
+      "Recognized among top six teams in Singapore",
+      "Presented to investors and industry leaders"
+    ],
+    "technologies": ["Business Development", "SaaS", "Investment Analysis"],
+    "type": "business"
+  }
+]
