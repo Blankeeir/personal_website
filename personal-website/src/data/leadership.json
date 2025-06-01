@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ripple-ambassador",
+    "title": "Student Ambassador",
+    "organization": "Ripple XRPL",
+    "type": "Blockchain Ambassador",
+    "period": "2024",
+    "description": "Representing Ripple XRPL in student communities and promoting blockchain education"
+  },
+  {
+    "id": "vechain-bcg",
+    "title": "Student Ambassador & Project Leader",
+    "organization": "Vechain & BCG",
+    "type": "Blockchain & Consulting",
+    "period": "2024",
+    "description": "Leading projects in collaboration with Vechain and Boston Consulting Group"
+  },
+  {
+    "id": "nus-entrepreneurship",
+    "title": "Student Ambassador & Clan Leader",
+    "organization": "NUS Entrepreneurship Program",
+    "type": "Entrepreneurship Leadership",
+    "period": "2024",
+    "description": "Leading entrepreneurship initiatives and mentoring fellow students in startup development"
+  }
+]

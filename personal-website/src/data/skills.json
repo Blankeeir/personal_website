@@ -1,0 +1,40 @@
+{
+  "technical": [
+    {
+      "category": "Trading & Finance",
+      "skills": ["Quantitative Trading", "High Frequency Trading (HFT)", "Spot Trading", "Options Trading", "Futures Trading", "Forex Day Trading", "Equity Research", "Decentralized Finance"]
+    },
+    {
+      "category": "Programming Languages",
+      "skills": ["Python", "C++", "JavaScript", "TypeScript", "Solidity", "R", "Swift"]
+    },
+    {
+      "category": "Web Development",
+      "skills": ["React", "Node.js", "Express", "SwiftUI", "HTML/CSS", "RESTful APIs"]
+    },
+    {
+      "category": "Data & Analytics",
+      "skills": ["Machine Learning", "Data Analytics", "Statistical Analysis", "Algorithm Development"]
+    },
+    {
+      "category": "Blockchain",
+      "skills": ["Smart Contract Development", "DeFi Protocols", "Cross-chain Solutions", "Cryptocurrency Trading"]
+    }
+  ],
+  "nonTechnical": [
+    {
+      "category": "Leadership",
+      "skills": ["People Management", "Strategic Planning", "Team Leadership", "Project Management"]
+    },
+    {
+      "category": "Business",
+      "skills": ["Business Development", "Social Networking", "Sales & Partnership", "Venture Capital", "Startup Operations"]
+    }
+  ],
+  "languages": ["English", "Mandarin"],
+  "certifications": [
+    "Software Patent",
+    "Software Copyright 8278743",
+    "AIVS Scholarship Program 2024"
+  ]
+}
